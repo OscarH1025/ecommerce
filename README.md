@@ -28,3 +28,10 @@ THEN I am able to successfully create, update, and delete data in my database
 1. Create the database by running the command: `source db/schema.sql`.
 1. Seed the database by running the command: `source db/seeds.sql`.
 1. Start the Database by running the command: `npm start`.
+
+# Video
+
+
+https://user-images.githubusercontent.com/99852993/180885843-206be2be-7b7a-430f-96d3-0ef2995a88c8.mp4
+
+
